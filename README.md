@@ -13,4 +13,4 @@ Here is a sample image of my resume, a pdf is in the repository above. If you wo
 
 ## Get Zachary Stall's Resume here!
 
-My full resume is saved to GitHub, feel free to take a look.
+My full resume is saved to GitHub, feel free to take a ![look](https://github.com/zstall/Resume/blob/master/Zachary%20Stall%20Technical%20Resume.pdf).
